@@ -1,20 +1,18 @@
+1. #오늘의 갑사 일기
+2. 이 애플리케이션은 다음과 같은 기능을 포함해야 합니다:
+오늘 날짜 표시
+오늘 감사한 일에 대한 짧은 메모 입력 (1~3개 항목)
+이모지 선택 (하트, 미소, 선물 등)
+로컬 스토리지(Local storage) 데이터 저장
+CRUD 기능 (생성, 조회, 삭제)
+3. <img width="1377" height="642" alt="image" src="https://github.com/user-attachments/assets/1f2ab229-85b7-4c8b-a346-080c25d4c425" />
+4. 감사를 작성하기--> 기록 저장하기 --> 결과 확인
+5. 이 웹은 Google AI studio 를 활용하여 제작되었습니다. 제가 한 부분은 PROMPT  작성하는 것이고 AI가 한 부분은 웹을 만드는 것이었습니다. 
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/b3a75477-80f2-4e78-8ae5-84360fac84f9
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+수정 프롬프트: 
+1.убери 기록하는 습관, и сделай кнопку удаление сохраненных пунктов благодарностей рабочей оно не работает
+2.добавь возможность полного удаления пункта из 최금 기록 и в отдельной вкладке функцию очистить все при нажатии которой все заметки удаляются
+3.функции удаление не работают пусть когда нажимает на кнопку удаление заметки удаляются полностью исчезает заметка
