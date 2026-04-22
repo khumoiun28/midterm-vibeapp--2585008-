@@ -7,10 +7,7 @@
 CRUD 기능 (생성, 조회, 삭제)
 3. <img width="1377" height="642" alt="image" src="https://github.com/user-attachments/assets/1f2ab229-85b7-4c8b-a346-080c25d4c425" />
 4. 감사를 작성하기--> 기록 저장하기 --> 결과 확인
-5. 이 웹은 Google AI studio 를 활용하여 제작되었습니다. 제가 한 부분은 PROMPT  작성하는 것이고 AI가 한 부분은 웹을 만드는 것이었습니다. 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+5. 이 웹은 Google AI studio 를 활용하여 제작되었습니다. 제가 한 부분은 PROMPT  작성하는 것이고 AI가 한 부분은 웹을 만드는 것이었습니다.
 
 수정 프롬프트: 
 1.убери 기록하는 습관, и сделай кнопку удаление сохраненных пунктов благодарностей рабочей оно не работает
